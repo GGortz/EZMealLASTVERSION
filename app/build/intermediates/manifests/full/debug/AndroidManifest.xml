@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="be.lsinf1225.ezmeal"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="25" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="be.lsinf1225.ezmeal.EZMeal" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="be.lsinf1225.ezmeal.Afficher_Sous_Categorie" />
+        <activity android:name="be.lsinf1225.ezmeal.Catalogue_Recette" />
+        <activity android:name="be.lsinf1225.ezmeal.Afficher_Categorie" />
+        <activity android:name="be.lsinf1225.ezmeal.Afficher_Ingredient" />
+        <activity android:name="be.lsinf1225.ezmeal.Afficher_Recette" />
+        <activity android:name="be.lsinf1225.ezmeal.Compte" />
+        <activity android:name="be.lsinf1225.ezmeal.DBHelper" />
+        <activity android:name="be.lsinf1225.ezmeal.Inscription" />
+        <activity android:name="be.lsinf1225.ezmeal.Menu" />
+        <activity android:name="be.lsinf1225.ezmeal.Recherche_Avancee" />
+        <activity android:name="be.lsinf1225.ezmeal.Recherche_Simple" />
+        <activity android:name="be.lsinf1225.ezmeal.Utilisateur" />
+    </application>
+
+</manifest>

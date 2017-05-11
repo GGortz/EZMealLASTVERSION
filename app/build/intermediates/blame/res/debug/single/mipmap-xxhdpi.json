@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Guillaume\\Music\\NEW 170427\\EZMeal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\Guillaume\\Music\\NEW 170427\\EZMeal\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Guillaume\\Music\\EZMeal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\Guillaume\\Music\\EZMeal\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Guillaume\\Music\\NEW 170427\\EZMeal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Guillaume\\Music\\NEW 170427\\EZMeal\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Guillaume\\Music\\EZMeal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Guillaume\\Music\\EZMeal\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]
