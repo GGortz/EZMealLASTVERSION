@@ -18,7 +18,7 @@ package be.lsinf1225.ezmeal;
 public class DBHelper extends SQLiteOpenHelper {
 
 
-    private static final int DATABASE_VERSION = 1; //version de la DB  (136 old)
+    private static final int DATABASE_VERSION = 1;
     private static final String DATABASE_NAME = "DB.db";  //nom de la db
 
     //Table d'utilisateur

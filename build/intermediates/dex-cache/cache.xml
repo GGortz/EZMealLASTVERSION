@@ -3,30 +3,12 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\Guillaume\Music\EZMeal\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0da54e5b7334db5fd5d7ee56ba89069925f1e361">
-        <dex dex="C:\Users\Guillaume\Music\EZMeal\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_840d87dcd18f6bc418f0ff58aa23b77ecb13c934\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\Guillaume\Music\NEW 170427\EZMeal\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="3ad661c1ea6150c175d7813f97b16b34b1a85a46">
+        sha1="3d021fa62565da973fb13ec14271b3def4bbb129">
         <dex dex="C:\Users\Guillaume\Music\NEW 170427\EZMeal\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9bf8bdced877af1e3015d0ec067817e26e5e58bb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Guillaume\Music\EZMeal\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
-        <dex dex="C:\Users\Guillaume\Music\EZMeal\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_bd21cc8bd2de9c862908ccdc98b3abcaa9cdc09c\classes.dex" />
     </item>
     <item
         is-multidex="true"
