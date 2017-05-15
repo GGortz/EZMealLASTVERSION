@@ -97,8 +97,8 @@ public class Inscription extends AppCompatActivity implements AdapterView.OnItem
                 String sexestr = spinner3.getItemAtPosition(spinner3.getSelectedItemPosition()).toString();
                 u.setSexe(sexestr);  //sexe
                 showMessage(prenomstr+moisstr+anneestr+paysstr+sexestr+passwordstr, Integer.toString(moisstr));
-                //manager.insertUser(u);
-                showMessage("Apres", "Insert");
+                manager.insertUser(u);
+                //showMessage("Apres", "Insert");
                 Intent h = new Intent(Inscription.this, Menu.class); //changement d'activity
                 startActivity(h);
             }
