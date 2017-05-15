@@ -44,12 +44,12 @@
         "source": "C:\\Users\\Guillaume\\.android\\build-cache\\22206be58cdfd924ce5f6b173a7526fab76bade3\\output\\res\\layout\\select_dialog_item_material.xml"
     },
     {
-        "merged": "C:\\Users\\Guillaume\\Music\\NEW 170427\\EZMeal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "C:\\Users\\Guillaume\\.android\\build-cache\\22206be58cdfd924ce5f6b173a7526fab76bade3\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
-    },
-    {
         "merged": "C:\\Users\\Guillaume\\Music\\EZMeal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
         "source": "C:\\Users\\Guillaume\\.android\\build-cache\\22206be58cdfd924ce5f6b173a7526fab76bade3\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Guillaume\\Music\\NEW 170427\\EZMeal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Guillaume\\.android\\build-cache\\22206be58cdfd924ce5f6b173a7526fab76bade3\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
         "merged": "C:\\Users\\Guillaume\\Music\\NEW 170427\\EZMeal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",

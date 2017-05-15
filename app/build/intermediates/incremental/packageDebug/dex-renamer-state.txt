@@ -1,7 +1,4 @@
-#Sun May 14 17:37:14 CEST 2017
-base.0=C\:\\Users\\Guillaume\\Music\\NEW 170427\\EZMeal\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_fe587e2663ede4eb55e5c78a93de4bfce681c659
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\Guillaume\\Music\\NEW 170427\\EZMeal\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9bf8bdced877af1e3015d0ec067817e26e5e58bb\\classes.dex
-base.1=C\:\\Users\\Guillaume\\Music\\NEW 170427\\EZMeal\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9bf8bdced877af1e3015d0ec067817e26e5e58bb
-file.0=C\:\\Users\\Guillaume\\Music\\NEW 170427\\EZMeal\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_fe587e2663ede4eb55e5c78a93de4bfce681c659\\classes.dex
+#Mon May 15 17:18:04 CEST 2017
+base.0=C\:\\Users\\Guillaume\\Music\\NEW 170427\\EZMeal\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\Guillaume\\Music\\NEW 170427\\EZMeal\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
